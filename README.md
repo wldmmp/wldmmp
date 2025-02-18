@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wldmmp
-- 🌱 I’m currently learning C# and Java Language
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on school project
 - 📫 How to reach me @[instagram:](https://www.instagram.com/wldmmp/)
 - ⚡ Fun fact: Gaming and Coding
